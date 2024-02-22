@@ -19,6 +19,10 @@ From the plot above, we may choose eight among the most important features to vi
   <img src="https://github.com/betobarela/webpage/blob/main/assets/img/correlations.png?raw=true" width="100%" />
 </p>
 
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
 ## In the scope of this stage of this project, we will content ourselves with the model above. Among the obvious next steps that could be easily taken in order to improve it, are:
 
 1. _Dimensionality reduction_: Could use, e.g., Principal Component Analysis (or manifold methods) to alleviate the complexity of the dataset, transforming it to a lower dimensional version of itself;
